@@ -12,7 +12,7 @@ This repository contains modules, assignments, and proof of completion.
 
 ### 🖼️ Agile Quiz Completion Screenshot:
 
-![Agile Quiz Screenshot](LTTS_training/SDLC/Agile_completion.png)
+![Agile Quiz Screenshot](SDLC/Agile_completion.png)
 
 
 ## 💻 Week 2 – Module 2: *Collaboration and Source Code Management with Git*
@@ -22,8 +22,8 @@ This repository contains modules, assignments, and proof of completion.
 
 ### 🖼️ SimpliLearn Git Training Certificate Screenshot:
 
-![SimpliLearn Git Certificate](LTTS_training/git_training/Git_training_simplilearn.png)
+![SimpliLearn Git Certificate](git_training/Git_training_simplilearn.png)
 
 ### 🖼️ CodeSignal Git Training Certificate Screenshot:
 
-![CodeSignal Git Certificate](LTTS_training/git_training/git_basics_codesignal.png)
+![CodeSignal Git Certificate](git_training/git_basics_codesignal.png)
